@@ -1,10 +1,7 @@
 ## Hi, I’m Monika shree :)
   
-- A 3rd year computer science undergraduate<br/>
-- 👀 I’m interested in web development...<br/>
-- 🌱 I’m currently learning html and css...<br/>
-- 💞️ I’m looking to collaborate on web projects...<br/>
-- 📫 you can directly reach me through [ https://www.instagram.com/monikaxshree/?next=%2F ]
+- prefinal year computer science graduate<br/>
+-  I’m looking to collaborate on projects...<br/>
 
 
 ## 🌐 Socials:
